@@ -10,8 +10,7 @@ nav1: "About"
 nav2: "Education"
 nav3: "Publications"
 nav4: "Teaching"
-nav5: "Download CV"
-nav6: "Contact Me"
+nav5: "Contact Me"
 
 # Section1
 sec1: "Maria Pettyjohn"
@@ -45,16 +44,6 @@ sec12: "Snapped dark matter in the wild"
 sec13: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 
 # Section 4
-sec14: "Publications"
-sec15: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus."
-sec16: "Possibly broke spacetime"
-sec17: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
-sec18: "Terraformed a small moon"
-sec19: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
-sec20: "Snapped dark matter in the wild"
-sec21: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
-
-# Section 5
 sec14: "Teaching"
 sec15: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus."
 sec16: "Possibly broke spacetime"
@@ -64,19 +53,19 @@ sec19: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae
 sec20: "Snapped dark matter in the wild"
 sec21: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 
-# Section 6
-sec22: "Download CV"
-sec23: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus."
-sec24: "Possibly broke spacetime"
-sec25: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
-sec26: "Terraformed a small moon"
-sec27: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
-sec28: "Snapped dark matter in the wild"
-sec29: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
+# Section 5
+sec14: "Contact Me"
+sec15: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus."
+sec16: "Possibly broke spacetime"
+sec17: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
+sec18: "Terraformed a small moon"
+sec19: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
+sec20: "Snapped dark matter in the wild"
+sec21: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 
 # Social Links
-facebook: username
-twitter:  username
+#facebook: username
+#twitter:  username
 #google: username
 #instagram: username
 #pinterest: username
@@ -84,12 +73,12 @@ twitter:  username
 #youtube: username
 #spotify: username
 #lastfm: username
-github: username
+#github: username
 #stackoverflow: username
 #quora: username
 #reddit: username
 #medium: username
 #vimeo: username
-keybase: username
-email: test@gmail.com
+#keybase: username
+email: mpettyjo@ualberta.ca
 
