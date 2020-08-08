@@ -1,23 +1,26 @@
 #Site configuration
 title: Read
-name:  Read Jekyll
+name:  Maria Pettyjohn
 author: Anthony Stark
 work:  Developer
 year: 2018
 
 # Navigation
 nav1: "About"
-nav2: "Things I Can Do"
-nav3: "A Few Accomplishments"
+nav2: "Education"
+nav3: "Publications"
+nav4: "Teaching"
+nav5: "Download CV"
+nav6: "Contact Me"
 
 # Section1
-sec1: "Read Jekyll"
-sec2: "Just an incredibly simple responsive template for Jekyll."
-sec3: "Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id in arcu ante lorem ipsum sed accumsan erat praesent faucibus commodo ac mi lacus. Adipiscing mi ac commodo. Vis aliquet tortor ultricies non ante erat nunc integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum."
+sec1: "Maria Pettyjohn"
+sec2: "Master's Student - Unversity of Alberta - Department of Physics"
+sec3: "I am a Master's student at the University of Alberta, specialising in astrophysics. I work with Professor Erik Rosolowsky studying the clouds in space that form stars and planets. My research focuses on the determining how the abundances of prebiotic molecules change with local enivronment of the cloud."
 
 # Section 2
-sec4: "Things I Can Do"
-sec5: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet."
+sec4: "Education"
+sec5: ""
 icon1: "fas fa-code"
 icont1: "Write all the code"
 icon2: "fa-cubes"
